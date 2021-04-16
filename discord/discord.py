@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# pip install
+# discord.py
 import nest_asyncio
 from discord.ext import commands
 import discord
