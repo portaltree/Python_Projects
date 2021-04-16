@@ -1,3 +1,7 @@
+# pip install
+# pytube 
+# PySimpleGUI
+# moviepy
 import pytube, glob
 import PySimpleGUI as sg
 from moviepy.editor import *
