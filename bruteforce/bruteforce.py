@@ -2,7 +2,7 @@
 # pip install
 # requests
 # random-password-generator
-# char is for what letters to add for example:
+# param is for what letters to add for example:
 # L = lower cased letter
 # U = upper cased letter
 # D = digits aka numbers
